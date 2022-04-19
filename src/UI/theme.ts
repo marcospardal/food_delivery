@@ -9,7 +9,10 @@ export const lightTheme = {
       light: '#4E60FF'
     },
     contrastText: '#545563',
-    darkText: '#2B2B43'
+    darkText: '#2B2B43',
+    grey: {
+      "100": '#C7C8D2'
+    }
   },
   typography: {
     title: {
